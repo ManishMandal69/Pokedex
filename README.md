@@ -1,0 +1,2 @@
+Pages-Home,Bookmark,Detailspokemonpage
+Components-Pokemoncard,Navbar
